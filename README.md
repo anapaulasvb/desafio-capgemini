@@ -24,12 +24,9 @@ Duas palavras podem ser consideradas anagramas de si mesmas se as letras de uma 
 - Clone este repositório    
 $ git clone <https://github.com/anapaulasvb/desafio-capgemini>
 
-- Acesse a pasta do projeto no terminal/cmd
+- Importe o projeto na IDE
 
-- Vá para a pasta bin
-
-- Execute a aplicação   
-$ java Main
+- Execute a aplicação Main
 
 ## Notas Gerais:
 - Para o desenvolvimento dos desafios, foi utilizada a IDE Eclipse (https://www.eclipse.org/downloads/packages/)
